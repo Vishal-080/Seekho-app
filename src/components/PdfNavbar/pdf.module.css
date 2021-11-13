@@ -1,0 +1,71 @@
+.text{
+height: 19px;
+width: 212px;
+left: 51px;
+top: 17px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 18.57px;
+letter-spacing: 0em;
+text-align: left;
+margin: auto;
+overflow: hidden;
+text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp: 1; /* number of lines to show */
+        line-clamp: 1; 
+-webkit-box-orient: vertical;
+
+}
+.vector0 {
+    margin: auto;
+    height: 23px;
+width: 20px;
+left: 286px;
+top: 15px;
+border-radius: 0px;
+
+}
+.vector2 {
+    margin: auto;
+    height: 23px;
+width: 20px;
+left: 286px;
+top: 15px;
+border-radius: 0px;
+
+}
+.vector3 {
+    margin: auto;
+    height: 23px;
+width: 20px;
+left: 286px;
+top: 15px;
+border-radius: 0px;
+
+}
+.vector5 {
+    margin: auto;
+    height: 23px;
+width: 20px;
+left: 286px;
+top: 15px;
+border-radius: 0px;
+
+}
+.parent{
+    display: flex;
+    gap: 20px;
+    height: 54px;
+    width: 411px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    margin: auto;
+    padding-left: 6px;
+    padding-right: 2px;
+/* background-color: #c4c4c4; */
+}

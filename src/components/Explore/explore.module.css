@@ -1,0 +1,144 @@
+.explorePage {
+    width: 411px;
+    margin: 0px;
+}
+
+.exploreCarousel {
+    width: 100%;
+    height: 216px;
+    padding: 0px;
+    padding-top: 83px;
+    margin-bottom: 29px;
+}
+
+.exploreCarousel .rec-carousel-item {
+    margin: 0px;
+    width: 100%;
+}
+
+.mainContent {
+    padding-top: 80px;
+    margin: 0px 10px;
+}
+
+.centered {
+    /* position: relative; */
+    top: 202px;
+    left: 411px;
+    transform: translate(-50%, -50%);
+    color: #333333;
+}
+
+.exploreCarouselButton {
+    position: relative;
+    top: -30px;
+    width: 411px;
+    margin: auto;
+    /* padding-top: px; */
+    z-index: 2;
+}
+
+.exploreCarouselImage {
+    width: 411px;
+    height: 216px;
+    opacity: 0.8;
+}
+
+/* .exploreCarousel .rec-slider-container {
+    margin: 0px;
+    width: 411px;
+} */
+
+.bookCategory {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 23.44px;
+    padding-left: 10px;
+    font-weight: 900;
+    opacity: 0.8;
+    text-align: left;
+}
+
+.exploreBook {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.exploreBook a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.bookTitle {
+    font-size: 12px;
+    line-height: 14.06px;
+    font-weight: 900;
+    opacity: 0.8;
+    text-align: center;
+    width: 135px;
+    margin-top: 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+            line-clamp: 1; 
+    -webkit-box-orient: vertical;
+}
+
+.bookAuthor {
+    font-size: 10px;
+    line-height: 11.72px;
+    text-align: center;
+    margin-top: 2px;
+    font-weight: 500;
+    opacity: 0.4;
+    margin-bottom: 18px;
+}
+
+.bookInfo {
+    display: flex;
+    justify-content: center;
+}
+
+.exploreItem {
+    width: 160.56px;
+    height: 170.29px;
+    /* opacity: 0.4; */
+    background-color: #FEEFF4;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center ;
+}
+
+.exploreItem > img {
+    width: 108px;
+    height: 158px;
+    border-radius: 8px;
+    margin: auto;
+}
+
+.exploreCategoriesDiv {
+    display: grid;
+    grid-template-columns: 90% 10%;
+    width: 100%;
+    margin-bottom: 14px;
+}
+
+.exploreCategoriesDiv > svg {
+    text-align: right;
+    margin: auto;
+    color: #13ABE6;
+    height: 28px;
+    width: 28px;
+}
+
+.AcademicHeader {
+    font-size: 24px;
+    font-weight: 900;
+    color: #333333;
+    margin: 0px;
+    padding: 0px 10px;
+    text-align: center;
+}

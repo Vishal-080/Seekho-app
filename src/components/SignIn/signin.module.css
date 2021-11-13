@@ -1,0 +1,40 @@
+.signInPage {
+    height: 950px;
+    background-color: white;
+}
+
+.signInPageHeader {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23.44px;
+    margin: 0px;
+    text-align: center;
+    margin-bottom: 36px;
+    padding: 0px;
+}
+
+.signin {
+    width: 280px;
+    margin: auto;
+    border-color: black;
+}
+
+.buttonCls {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.buttonCls::selection {
+    background-color: grey;
+}
+
+.linkWrapper {
+    color: grey;
+    font-size: 12px;
+}
+
+.bold {
+    font-weight: 700;
+}

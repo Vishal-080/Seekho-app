@@ -1,0 +1,123 @@
+.footerComponent {
+  /* width: 100%; */
+  margin: 0px 20px;
+  background-color: white;
+}
+
+.footerBottom {
+  width: 391px;
+  height: 100px;
+  padding: 0px;
+  background-color: white;
+  position: fixed;
+  top: 900px;
+  margin-left: 0px;
+}
+
+.footer {
+  width: 371px;
+  height: 55px;
+  top: 900px;
+  margin: auto;
+  background: #aedef1;
+  border-radius: 30px;
+  position: fixed;
+  z-index: 3;
+}
+.footer_homebtn {
+  position: absolute;
+  margin-left: 38px;
+  bottom: 8.33%;
+  font-family: Roboto;
+  cursor: pointer;
+}
+
+.footer_homebtn > img {
+  width: 28px;
+  height: 28px;
+  opacity: 0.7;
+}
+
+
+.footer_homebtn > div {
+  margin: auto;
+  font-size: 12px;
+  color: #333333;
+  font-weight: 400;
+  opacity: 0.7;
+}
+
+.footer_explorebtn {
+  position: absolute;
+  margin-left: 120px;
+  bottom: 8.33%;
+  font-family: Roboto;
+  cursor: pointer;
+}
+
+.footer_explorebtn > img {
+  width: 26px;
+  height: 26px;
+  opacity: 0.7;
+}
+
+.footer_explorebtn > div {
+  margin: auto;
+  font-size: 12px;
+  color: #333333;
+  font-weight: 400;
+  opacity: 0.7;
+}
+
+
+.footer_booksbtn {
+  position: absolute;
+  margin-left: 200px;
+  bottom: 8.33%;
+  font-family: Roboto;
+  cursor: pointer;
+  color: #698089;
+  opacity: 0.7;
+}
+
+.footer_booksbtn > img {
+  width: 26px;
+  height: 26px;
+  opacity: 0.7;
+}
+
+.footer_booksbtn > div {
+  margin: auto;
+  font-size: 12px;
+  color: #333333;
+  font-weight: 400;
+}
+
+.footer_profilebtn {
+  position: absolute;
+  margin-left: 300px;
+  bottom: 8.33%;
+  font-family: Roboto;
+  cursor: pointer;
+  color: #698089;
+}
+
+.footer_profilebtn > img {
+  width: 26px;
+  height: 26px;
+  opacity: 0.7;
+}
+
+.footer_profilebtn > div {
+  margin: auto;
+  font-size: 12px;
+  color: #333333;
+  font-weight: 400;
+  opacity: 0.7;
+}
+
+
+.activeHome  {
+  opacity: 1;
+}
+
